@@ -1,4 +1,4 @@
-# 🎯 AI-Powered Applicant Tracking System (ATS)
+# 🎯 AI-Job Application Tracking System (ATS)
 
 > A full-stack recruitment platform that streamlines hiring through AI-powered resume scoring, intelligent candidate evaluation, and centralized application management.
 
@@ -11,7 +11,7 @@
 
 ## 📖 Overview
 
-The **AI-Powered Applicant Tracking System (ATS)** is a full-stack web application developed as a **B.Tech Artificial Intelligence & Data Science Mini Project**.
+The ** AI-Job Application Tracking System (ATS)** is a full-stack web application developed as a **B.Tech Artificial Intelligence & Data Science Mini Project**.
 
 The platform helps recruiters efficiently manage job postings, evaluate candidates, and track recruitment progress, while enabling candidates to search jobs, upload resumes, and monitor their application status.
 
